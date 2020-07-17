@@ -1,0 +1,14 @@
+package emailapp;
+
+public class Emailaap {
+
+
+	public static void main(String[] args) {
+         Email em1 = new Email("Aman","Mittal");
+         
+     System.out.println(em1.ShowInfo());
+         
+
+	}
+
+}
